@@ -1,30 +1,39 @@
 # App creation
+StorkPass – Gerenciador de Senhas Seguro e Inteligente
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+O StorkPass é um gerenciador de senhas moderno, projetado para oferecer máxima segurança, praticidade e confiabilidade no armazenamento de credenciais. Desenvolvido com foco em proteção de dados e usabilidade, o StorkPass utiliza padrões robustos de criptografia para garantir que todas as informações sensíveis permaneçam completamente sigilosas.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/josueflores00027-9413s-projects/v0-app-creation)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/vmYxGWyHLGp)
+Principais Recursos
 
-## Overview
+Armazenamento criptografado de senhas, chaves privadas e informações pessoais.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Interface intuitiva, ideal tanto para usuários iniciantes quanto profissionais.
 
-## Deployment
+Gerador de senhas fortes, baseado em boas práticas de segurança digital.
 
-Your project is live at:
+Organização por categorias, facilitando o gerenciamento das credenciais.
 
-**[https://vercel.com/josueflores00027-9413s-projects/v0-app-creation](https://vercel.com/josueflores00027-9413s-projects/v0-app-creation)**
+Sincronização inteligente entre dispositivos (opcional, conforme arquitetura do projeto).
 
-## Build your app
+Objetivo do Projeto
 
-Continue building your app on:
+O StorkPass foi criado para estabelecer um ambiente seguro, rápido e funcional, onde o usuário possa gerenciar suas senhas sem complicações, mantendo total controle sobre seu ecossistema digital.
 
-**[https://v0.app/chat/vmYxGWyHLGp](https://v0.app/chat/vmYxGWyHLGp)**
+Tecnologias Utilizadas
 
-## How It Works
+Criptografia avançada (AES-256 ou similar)
 
-1. Create and modify your project using [v0.app](https://v0.app)
+Arquitetura modular
+
+Boas práticas de segurança OWASP
+
+Desenvolvimento focado em escalabilidade e proteção
+
+Status do Projeto
+
+Em constante evolução, o StorkPass segue padrões de desenvolvimento modernos e pode receber novos módulos, integrações e melhorias conforme a demanda.
+
+1. Create and modify your project using 
 2. Deploy your chats from the v0 interface
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
