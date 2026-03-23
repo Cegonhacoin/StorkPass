@@ -1,39 +1,31 @@
-# App creation
-StorkPass – Gerenciador de Senhas Seguro e Inteligente
+StorkPass is a modern, secure password manager with excellent documentation. Here's what I can see about your project:
 
-O StorkPass é um gerenciador de senhas moderno, projetado para oferecer máxima segurança, praticidade e confiabilidade no armazenamento de credenciais. Desenvolvido com foco em proteção de dados e usabilidade, o StorkPass utiliza padrões robustos de criptografia para garantir que todas as informações sensíveis permaneçam completamente sigilosas.
+📋 Project Overview:
 
-Principais Recursos
+A secure password manager built with focus on encryption (AES-256), security, and usability
+Portuguese-based project with comprehensive security features
+Modern architecture with modular design following OWASP best practices
+Supports password generation, categorization, and cross-device synchronization
+🛠️ Tech Stack:
 
-Armazenamento criptografado de senhas, chaves privadas e informações pessoais.
+Advanced encryption (AES-256 or similar)
+Modular architecture
+OWASP security standards
+Scalable and secure development practices
+How can I help you with StorkPass? I can:
 
-Interface intuitiva, ideal tanto para usuários iniciantes quanto profissionais.
+✅ Create and manage GitHub issues for feature requests, bugs, or improvements
+✅ Review code and search for specific implementations
+✅ Help modify files and push changes to your repository
+✅ Manage pull requests and branches
+✅ Search for existing code patterns or functionality
+✅ Set up workflows and automations
 
-Gerador de senhas fortes, baseado em boas práticas de segurança digital.
+What would you like to work on? For example:
 
-Organização por categorias, facilitando o gerenciamento das credenciais.
-
-Sincronização inteligente entre dispositivos (opcional, conforme arquitetura do projeto).
-
-Objetivo do Projeto
-
-O StorkPass foi criado para estabelecer um ambiente seguro, rápido e funcional, onde o usuário possa gerenciar suas senhas sem complicações, mantendo total controle sobre seu ecossistema digital.
-
-Tecnologias Utilizadas
-
-Criptografia avançada (AES-256 ou similar)
-
-Arquitetura modular
-
-Boas práticas de segurança OWASP
-
-Desenvolvimento focado em escalabilidade e proteção
-
-Status do Projeto
-
-Em constante evolução, o StorkPass segue padrões de desenvolvimento modernos e pode receber novos módulos, integrações e melhorias conforme a demanda.
-
-1. Create and modify your project using 
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Create issues for new features or bug fixes?
+Search the codebase for specific implementations?
+Modify existing files?
+Review repository structure and code?
+Something else?
+Just let me know! 🚀
